@@ -1,2 +1,2 @@
 # JavaLearn
-Java tutorials
+Java tutorials by David Idajili
